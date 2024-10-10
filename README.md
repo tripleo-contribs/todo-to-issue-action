@@ -155,6 +155,7 @@ Only a single milestone can be specified. If the milestone does not exist, it wi
 - Kotlin
 - Less
 - Liquid
+- Lua
 - Makefile
 - Markdown
 - Nix
@@ -172,6 +173,7 @@ Only a single milestone can be specified. If the milestone does not exist, it wi
 - Scala
 - SCSS
 - Shell
+- Solidity
 - SQL
 - Starlark
 - Swift

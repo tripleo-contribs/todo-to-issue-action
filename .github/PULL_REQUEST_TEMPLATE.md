@@ -1,3 +1,5 @@
+<!-- If this is a PR for a new language definition, please fill out the below. Otherwise, please delete. -->
+
 # New Language Definition Contribution
 
 Thank you for contributing a new language definition! Please follow the guidelines below to ensure that your contribution can be easily reviewed and integrated into the project.
